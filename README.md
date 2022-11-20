@@ -17,12 +17,5 @@ This program contains one file - main.py.
 -Click Hough Transform: Lines for line detection
 -Click Select an Image to change the image you want to work with
 
-#MARKS#
--Option 1 (20% + 10%)
--Option 2 (20% + 10%)
--Option 3 (20% + 10%)
--Option 5 (only first half is implemented) (20%)
--Extra Marks for option 5 (5%)
-
 #BUGS#
 -None found
